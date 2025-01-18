@@ -7,7 +7,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#">Homee</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Properties</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Agents</a></li>
                     <li class="nav-item"><a class="nav-link" href="#">Contact</a></li>
