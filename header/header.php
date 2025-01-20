@@ -1,7 +1,7 @@
  <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
-            <a class="navbar-brand" href="#"><img src="images/Flatlogo.png" height="60px" width="60px"/></a>
+            <a class="navbar-brand" href="#"><img src="http://flathiflat.com/Realestate/images/Flatlogo.png" height="60px" width="60px"/></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
             </button>
