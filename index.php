@@ -14,6 +14,61 @@
             height: 200px;
             object-fit: cover;
         }
+		/********************************/
+		/* .hero-slider {
+            position: relative;
+        }
+        .hero-slider img {
+            height: 70vh;
+            object-fit: cover;
+        }*/
+        .search-container {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: rgba(255, 255, 255, 0.9);
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            width: 80%;
+            max-width: 800px;
+        }
+        .search-container form {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+        .search-container input,
+        .search-container select,
+        .search-container button {
+            border-radius: 5px;
+            border: 1px solid #ccc;
+        }
+        .top-buttons {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 15px;
+            gap: 10px;
+        }
+        .top-buttons .btn {
+            border-radius: 20px;
+            padding: 10px 20px;
+        }
+		 @media (max-width: 768px) {
+            .search-container {
+                width: 90%;
+                padding: 15px;
+            }
+            .d-flex.gap-2 {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+		
+		/************ END **************/
+		
+		
         footer {
             background: #333;
             color: #fff;
